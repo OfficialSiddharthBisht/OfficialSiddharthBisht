@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialsiddharthbisht&show_icons=true&locale=en" alt="officialsiddharthbisht" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialsiddharthbisht&" alt="officialsiddharthbisht" /></p>
+ ### 📈 GitHub Activity:
+  <a href="https://github.com/OfficialSiddharthBisht/github-readme-activity-graph"><img alt="OfficialSiddharthBisht's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OfficialSiddharthBisht&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
