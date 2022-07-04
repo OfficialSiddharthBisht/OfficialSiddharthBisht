@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Siddharth Bisht</h1>
-<h3 align="center">An Aspiring Full Stack Developer From Nainital Uttarakhand India</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer From Nainital Uttarakhand India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialsiddharthbisht&label=Profile%20views&color=0e75b6&style=flat" alt="officialsiddharthbisht" /> </p>
 
@@ -9,24 +9,20 @@
 
 - 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
 
-- 💬 Ask me about **Development , Problem Solving In JS**
+- 💬 Ask me about **Web Development , Problem Solving In JS**
 
-- 📫 How to reach me **officialsiddharthbisht@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **officialsiddharthbisht@gmail.com or Call or Whatsapp at 8077305268**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siddhar92199817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhar92199817" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddharth-bisht-57084b198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-bisht-57084b198/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/siddharthbishtofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/siddharthbishtofficial/" height="30" width="40" /></a>
-<a href="https://medium.com/@officialsiddharthbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@officialsiddharthbisht" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/siddharthbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/siddharthbisht" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/officialsiddharthbisht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="officialsiddharthbisht/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@officialsiddhar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@officialsiddhar3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/officialsiddharthbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/officialsiddharthbisht" height="30" width="40" /></a>
+<a href="https://twitter.com/siddhar92199817" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhar92199817" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddharth-bisht-57084b198/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-bisht-57084b198/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/siddharthbishtofficial/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/siddharthbishtofficial/" height="30" width="40" /></a>
+<a href="https://medium.com/@officialsiddharthbisht" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@officialsiddharthbisht" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/siddharthbisht" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/siddharthbisht" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/officialsiddharthbisht/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="officialsiddharthbisht/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@officialsiddhar3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@officialsiddhar3" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/officialsiddharthbisht" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/officialsiddharthbisht" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
