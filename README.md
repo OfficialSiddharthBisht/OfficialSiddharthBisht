@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialsiddharthbisht" alt="officialsiddharthbisht" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Express JS and MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
 
