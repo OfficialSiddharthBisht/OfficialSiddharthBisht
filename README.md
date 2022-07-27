@@ -1,21 +1,12 @@
 <h1 align="center">Namaste🙏, I'm Siddharth Bisht</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer From Nainital Uttarakhand India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialsiddharthbisht&label=Profile%20views&color=0e75b6&style=flat" alt="officialsiddharthbisht" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialsiddharthbisht" alt="officialsiddharthbisht" /></a> </p>
-
-- 🌱 I’m currently learning **Express JS and MongoDB**
-
-- 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
-
-- 💬 Ask me about **Web Development , Problem Solving In JS**
-
-- 📫 How to reach me **officialsiddharthbisht@gmail.com or Call or Whatsapp at 8077305268**
+```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Siddharth Bisht';
-  title    = 'Software Engineer' || 'Full Stack Web Developer' || 'MERN Stack';
+  title    = 'Software Engineer' || 'Full Stack Web Developer' || 'MERN Stack Developer';
   location = 'Nainital, India' || 'Remote ' || 'Anywhere';
   availability = "Available to hire!!";
 }
@@ -24,6 +15,19 @@ class Skills extends SoftwareDeveloper {
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
   ui = ['Material-Ui', 'Styled-Components','Chakra-Ui'];
 }
+```
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialsiddharthbisht&label=Profile%20views&color=0e75b6&style=flat" alt="officialsiddharthbisht" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialsiddharthbisht" alt="officialsiddharthbisht" /></a> </p>
+
+
+- 🌱 I’m currently learning **Express JS and MongoDB**
+
+- 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
+
+- 📫 How to reach me **officialsiddharthbisht@gmail.com or Call or Whatsapp at 8077305268**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
