@@ -12,6 +12,18 @@
 - 💬 Ask me about **Web Development , Problem Solving In JS**
 
 - 📫 How to reach me **officialsiddharthbisht@gmail.com or Call or Whatsapp at 8077305268**
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Siddharth Bisht';
+  title    = 'Software Engineer' || 'Full Stack Web Developer' || 'MERN Stack';
+  location = 'Nainital, India' || 'Remote ' || 'Anywhere';
+  availability = "Available to hire!!";
+}
+class Skills extends SoftwareDeveloper {
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  ui = ['Material-Ui', 'Styled-Components','Chakra-Ui'];
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
