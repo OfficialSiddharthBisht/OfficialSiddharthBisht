@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 👋, I'am'm Siddharth Bisht</h1>
+<h1 align="center">Namaste 👋, I'am Siddharth Bisht</h1>
 <h3 align="center">Full Stack Web Developer From Nainital Uttarakhand India</h3>
 
 ```js
