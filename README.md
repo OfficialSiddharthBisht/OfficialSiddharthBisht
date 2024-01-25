@@ -22,9 +22,9 @@ class Skills extends SoftwareDeveloper {
 
 <p align="left"> <a href="https://twitter.com/siddhar04908577" target="blank"><img src="https://img.shields.io/twitter/follow/siddhar04908577?logo=twitter&style=for-the-badge" alt="siddhar04908577" /></a> </p>
 
-- 🔭 I’m currently working on [E Commerce Backend](https://github.com/OfficialSiddharthBisht/e-commerce-backend)
+- 🔭 I’m currently working on [My Night Manager](https://mynightmanager.com/)
 
-- 🌱 I’m currently practicing **MERN Stack**
+- 🌱 I’m currently practicing **MERN Stack, React Native , AWS**
 
 - 👨‍💻 All of my projects are available at [https://siddharthbisht.netlify.app/](https://siddharthbisht.netlify.app/)
 
