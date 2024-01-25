@@ -26,7 +26,7 @@ class Skills extends SoftwareDeveloper {
 
 - 🌱 I’m currently practicing **MERN Stack, React Native , AWS**
 
-- 👨‍💻 All of my projects are available at [https://siddharthbisht.netlify.app/](https://siddharthbisht.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://siddharthbisht.netlify.app/](https://siddharthbisht.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
 
