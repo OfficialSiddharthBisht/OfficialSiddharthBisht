@@ -10,9 +10,9 @@ class Bio extends SoftwareDeveloper {
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux','Next JS'];
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Material-Ui', 'Styled-Components','Chakra-Ui'];
+  ui = ['TailwindCSS', 'Styled-Components','Chakra-Ui'];
 }
 ```
 
@@ -22,11 +22,11 @@ class Skills extends SoftwareDeveloper {
 
 <p align="left"> <a href="https://twitter.com/siddhar04908577" target="blank"><img src="https://img.shields.io/twitter/follow/siddhar04908577?logo=twitter&style=for-the-badge" alt="siddhar04908577" /></a> </p>
 
-- 🔭 I’m currently working on [My Night Manager](https://mynightmanager.com/)
+- 🔭 I’m currently working on [True Phonetics](https://truephonetics.com/)
 
-- 🌱 I’m currently practicing **MERN Stack, React Native , AWS**
+- 🌱 I’m currently practicing **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://siddharthbisht.netlify.app/](https://siddharthbisht.tech)
+- 👨‍💻 All of my projects are available at [https://siddharthbisht.com](https://siddharthbisht.com)
 
 - 📝 I regularly write articles on [https://medium.com/@officialsiddharthbisht](https://medium.com/@officialsiddharthbisht)
 
