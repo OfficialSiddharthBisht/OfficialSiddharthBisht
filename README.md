@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Siddharth Bisht</h1>
-<h3 align="center">Full Stack Web Developer From Nainital Uttarakhand India</h3>
+<h3 align="center">Full Stack AI Application Developer From Nainital Uttarakhand India</h3>
 
 ```js
 import SoftwareDeveloper from 'India';
@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 
 - 🔭 I’m currently working on [True Phonetics](https://truephonetics.com/)
 
-- 🌱 I’m currently practicing **Next JS**
+- 🌱 I’m currently practicing **RAG, LangChain, Ollama**
 
 - 👨‍💻 All of my projects are available at [https://siddharthbisht.com](https://siddharthbisht.com)
 
